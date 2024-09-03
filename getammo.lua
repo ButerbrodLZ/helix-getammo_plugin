@@ -4,7 +4,7 @@ PLUGIN.description = "maybe good for ivent-masters"
 
 
     local ammoTypes = {
-   --[  ["5.45"] = "ammo_5_45"
+   --  ["5.45"] = "ammo_5_45"
   
     }
 
